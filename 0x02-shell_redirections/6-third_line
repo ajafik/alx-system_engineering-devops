@@ -1,2 +1,2 @@
 #!/bin/bash
-head -2 iacta | less +2
+head -3 iacta | less -1
